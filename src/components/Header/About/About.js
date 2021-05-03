@@ -3,7 +3,7 @@ import './About.css';
 
 const About = () => {
     return (
-        <section className="contact my-5 py-5">
+        <section  style={{marginTop:'50px'}} className="contact my-5 py-5">
            <div className="container">
                <div className="section-header text-center text-white mb-5">
                     <h2 className="text-primary">Contact</h2>

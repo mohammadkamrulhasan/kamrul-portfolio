@@ -35,7 +35,7 @@ const projectData = [
 ]
 const Project = () => {
     return (
-        <section className="features-container mt-5 contact">
+    <section style={{paddingBottom:'30px'}} className="features-container mt-5 contact">
         <div className="text-center">
             <h1 style={{color: '#1CC7C1'}}>My Project</h1>
             <h2>Work I have done</h2>

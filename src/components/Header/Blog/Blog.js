@@ -22,8 +22,8 @@ const blogData = [
 
 const Blog = () => {
     return (
-        <section className="blogs my-5">
-        <div className="container">
+        <section style={{ marginTop: '40px'}} className="blogs my-5">
+        <div  className="container">
             <div className="section-header text-center">
                  <h5 className="text-primary text-uppercase">My blog</h5>
                  <h1>From My Blog News</h1>

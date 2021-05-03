@@ -2,6 +2,7 @@
     /* background-image: url(../../../images/appointmentBg.png); */
     position: relative;
     z-index: 1;
+    overflow: hidden;
 }
 .contact::before{
     position: absolute;
@@ -12,4 +13,5 @@
     background: rgb(12, 11, 27);
     opacity: .9;
     z-index: -1;
+    
 }
