@@ -5,17 +5,17 @@ import './Blog.css';
 const blogData = [
     {
         title : 'React -a JavaScript Framework',
-        description : 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',           
+        description : 'Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.',           
         date : 'January 2021'
     },
     {
         title : 'How can you make a simple website with Bootstrap',
-        description : 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',           
+        description : 'Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon. ',           
         date : 'March 2021'
     },
     {
         title : 'Learn how to maintain a web site',
-        description : 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',              
+        description : 'Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon.Blog is comming soon. ',              
         date : 'April 2021'
     },
 ]
