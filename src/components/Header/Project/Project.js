@@ -1,8 +1,8 @@
 import React from 'react';
 import './Project.css';
 import home from '../../../images/project1.png';
-import city from '../../../images/project2.png';
-import world from '../../../images/project3.png';
+import hello from '../../../images/hello.png';
+import zchat from '../../../images/zchat.png';
 import ProjectDetail from './ProjectDetail';
 
 
@@ -17,19 +17,19 @@ const projectData = [
         
     },
     {
-        name: 'City Transports Authority',
-        img: city,
-        duration: 'March 14,2021 to March 21,2021',
-        Live:'https://city-transports-authority.web.app/',
-        Code:'https://github.com/mohammadkamrulhasan/assignment9'
+        name: 'Hello! (Messaging web application)',
+        img: hello,
+        duration: 'May 28, 2021 to May 30, 2021',
+        Live:'https://hello-cc594.web.app/',
+        Code:'https://github.com/mohammadkamrulhasan/Hello-'
         
     },
     {
-        name: 'World Football League (WFL)',
-        img: world,
-        duration: 'March 1,2021 to March 7,2021',
-        Live:'https://friendly-sinoussi-d6734d.netlify.app/',
-        Code:'https://github.com/mohammadkamrulhasan/assignment8'
+        name: 'Z-Chat (A Chatting App)',
+        img: zchat,
+        duration: 'June 03, 2021 to June 04, 2021',
+        Live:'https://z-chat-cfb4a.web.app/',
+        Code:'https://github.com/mohammadkamrulhasan/Z-chat'
                 
     }
 ]
